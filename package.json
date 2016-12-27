@@ -1,0 +1,31 @@
+{
+  "name": "subtitle-parser",
+  "version": "0.0.0",
+  "description": "library to parse srt/ssa/ass subtitles to objects",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test",
+    "test:coverage": "istanbul cover _mocha test"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naxmefy/node-subtitle-parser.git"
+  },
+  "keywords": [
+    "subtitle",
+    "parser",
+    "srt",
+    "ass",
+    "ssa",
+    "video"
+  ],
+  "author": "MRW Neundorf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naxmefy/node-subtitle-parser/issues"
+  },
+  "homepage": "https://github.com/naxmefy/node-subtitle-parser#readme"
+}
